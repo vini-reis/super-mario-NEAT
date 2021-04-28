@@ -1,0 +1,4 @@
+gym-retro
+neat-python
+numpy
+progressbar2
